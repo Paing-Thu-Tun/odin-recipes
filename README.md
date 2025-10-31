@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first mini project in The Odin Project. I will use HTML language. I hope by the time I have completed this project, I am a little bit more confident in using HTML elements like lists, images, headings, etc..
